@@ -30,7 +30,7 @@ twitter_username:
 github_username:  aagans
 
 # Build settings
-theme: minima
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
